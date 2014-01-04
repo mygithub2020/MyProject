@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Cnn UI Tests" duration-ms="6373" started-at="2014-01-04T05:45:01Z" finished-at="2014-01-04T05:45:07Z">
+    <groups>
+    </groups>
+    <test name="TestUrl" duration-ms="6373" started-at="2014-01-04T05:45:01Z" finished-at="2014-01-04T05:45:07Z">
+      <class name="LogInLogOutTest">
+        <test-method status="PASS" signature="go_to_WebSite()[pri:0, instance:LogInLogOutTest@4a7c5889]" name="go_to_WebSite" is-config="true" duration-ms="1548" started-at="2014-01-04T00:45:01Z" finished-at="2014-01-04T00:45:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- go_to_WebSite -->
+        <test-method status="PASS" signature="logIn_Test()[pri:0, instance:LogInLogOutTest@4a7c5889]" name="logIn_Test" duration-ms="3738" started-at="2014-01-04T00:45:02Z" finished-at="2014-01-04T00:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn_Test -->
+        <test-method status="PASS" signature="log_Out()[pri:0, instance:LogInLogOutTest@4a7c5889]" name="log_Out" duration-ms="829" started-at="2014-01-04T00:45:06Z" finished-at="2014-01-04T00:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log_Out -->
+        <test-method status="PASS" signature="close_Browser()[pri:0, instance:LogInLogOutTest@4a7c5889]" name="close_Browser" is-config="true" duration-ms="235" started-at="2014-01-04T00:45:07Z" finished-at="2014-01-04T00:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+      </class> <!-- LogInLogOutTest -->
+    </test> <!-- TestUrl -->
+  </suite> <!-- Cnn UI Tests -->
+</testng-results>
